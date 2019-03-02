@@ -1,0 +1,19 @@
+{
+  "name": "sobchenyuk/junior",
+  "description": "Junior is a PHP micro framework",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "sobchenyuk",
+      "email": "ablehands@ukr.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Junior\\": "Junior"
+    }
+  }
+}
