@@ -1,0 +1,12 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/junior/node_modules
+/junior/vendor
+
+/.git
+/.idea
+.git/*
+.idea/*
+/junior/package-lock.json
+/junior/composer.lock

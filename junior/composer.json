@@ -1,0 +1,19 @@
+{
+    "name": "junior/junior",
+    "type": "package",
+    "description": "Junior is a PHP micro framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sobchenyuk",
+            "email": "ablehands@ukr.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Junior\\": "Junior"
+        }
+    }
+}
