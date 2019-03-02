@@ -2,6 +2,8 @@
   "name": "sobchenyuk/junior",
   "description": "Junior is a PHP micro framework",
   "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "authors": [
     {
       "name": "sobchenyuk",
